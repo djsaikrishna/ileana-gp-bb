@@ -6,9 +6,9 @@ import cloudscraper
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
-API_ID = os.environ.get("API_ID")
-API_HASH = os.environ.get("API_HASH")
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+API_ID = os.environ.get("15882573")
+API_HASH = os.environ.get("dddd64edfc5326e4a35e448347b83e2d")
+BOT_TOKEN = os.environ.get("5629423249:AAGTotPkjacLLl3dOXa5GmbGgRdM2xplcOM")
 
 
 
